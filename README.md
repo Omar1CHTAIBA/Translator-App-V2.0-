@@ -52,7 +52,7 @@ Click the "Reset" button to clear both the input and output text fields.
 
 ## DEMO
 
-## ![Image](https://github.com/user-attachments/assets/7de79aee-b7a9-410c-9424-01b14d2197db)
+### ![Image](https://github.com/user-attachments/assets/7de79aee-b7a9-410c-9424-01b14d2197db)
 
 
 
